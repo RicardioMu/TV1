@@ -194,5 +194,5 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 陕西频道,#genre#
 
 安康频道,#genre#
-安康公共频道,http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakggpd.m3u8
-安康新闻频道,http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakzhpd.m3u8
+安康公共频道,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226054/index.m3u8
+安康新闻频道,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226053/index.m3u8
